@@ -1,0 +1,60 @@
+.jumbotron {
+  text-align: center;
+  font-size: 45px;
+  color: #ffa31a;
+  background-color: #3399ff;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 3em;
+  font-style: oblique;
+}
+
+body {
+  background-color: #b3ffff;
+  color: #bf4080;
+}
+
+h3 {
+  font-size: 2em;
+  font-style: normal;
+}
+
+ul {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+#main {
+  font-size: 1.8em;
+}
+
+.state {
+  float: right;
+}
+
+.col-md-9 {
+  float: right;
+  padding-left: 10%;
+}
+
+input {
+  color: #4d4d4d:
+}
+
+.sidebar {
+  float: left;
+  background-color: #d6d6c2;
+  width: 20%;
+  height: 100%;
+  position: absolute;
+  color: #bf80ff;
+}
+
+.well {
+  width: 40px;
+}
