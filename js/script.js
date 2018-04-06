@@ -12,9 +12,9 @@ function pingpoint(starTline) {
 $(document).ready(function() {
   $("#addButton").click(function(event) {
     event.preventDefault();
-    var madNess = parseInt($("input#reg").val());
+    var hapTick = parseInt($("input#reg").val());
     $("ul.mimik").empty();
-    for(var starTline = 1; starTline <= madNess; starTline += 1) {
+    for(var starTline = 1; starTline <= hapTick; starTline += 1) {
       $("ul.mimik").append("<li>" + pingpoint(starTline) + "</li>");
     }
   });
