@@ -17,5 +17,5 @@ when using this webpage their is no bugs on  the way but when on is creating it 
 If any people have any complains or compliment you may find me in all social media with my full names Eddie Nthiga and you may also contact me(0725469862) and my email is as follows asdfghj@gmail.com
 ### License
 **
-MTDI
+MIT
   
